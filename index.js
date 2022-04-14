@@ -1,2 +1,1 @@
-
-alert "lol"
+console.log('welcome to JavaScript');
