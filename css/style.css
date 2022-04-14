@@ -3,9 +3,13 @@ head {
   background-color: 050555;
     text-align: center;
 }
+body {
+  background-color: 111111;
+  color: 100000;
+}
 alert {
   font-family: verdana;
   font-size: 20px;
-  color: green;
+  color: 200000;
 }
   
