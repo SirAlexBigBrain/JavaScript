@@ -6,10 +6,11 @@ head {
 body {
   background-color: 111111;
   color: 100000;
+  text-align: center;
 }
 alert {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 70px;
   color: 200000;
 }
   
