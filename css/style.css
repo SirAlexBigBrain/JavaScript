@@ -4,12 +4,12 @@ head {
     text-align: center;
 }
 body {
-  background-color: 111111;
+  background-color: medium;
   color: 100000;
   text-align: center;
 }
 alert {
-  font-family: verdana;
+  font-family: monospace;
   font-size: 70px;
   color: 200000;
   text-align: center;
